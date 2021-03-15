@@ -121,4 +121,4 @@ env/
 doc/source/savefig/
 
 #virtual-env
-pandas-env/
+pandas-venv/
